@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">mis Colores</string>
+    <string name="yellow">Amarillo</string>
+    <string name="black">Negro</string>
+    <string name="blue">Azul</string>
+    <string name="brown">Café</string>
+    <string name="gray">Gris</string>
+    <string name="green">Verde</string>
+    <string name="pink">Rosado</string>
+    <string name="purple">Purpura</string>
+    <string name="red">Rojo</string>
+    <string name="white">Blanco</string>
+    <string name="transparent">Transparente</string>
+    <string name="semitransparent">Semitransparente</string>
+    <string name="opaque">Opaco</string>
+    <string name="alpha">Alpha</string>
+    <string name="aboutof">Acerca de</string>
+</resources>
